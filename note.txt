@@ -1,0 +1,20 @@
+<doctype html>
+	<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<title>html2</title>
+	</head>
+		<body>
+			<h1>My name is Md Shamim Ahmed.i am learning Full stack web developement</h1>
+			<h2>Work on Full-Stack Projects: Build projects that incorporate both front-end and back-end components to solidify your skills</h2>
+			<h3>Stay Updated: The tech industry evolves rapidly, so continuous learning through courses, tutorials, and staying active in the developer community is essential.</h3>
+			<h4>Responsibilities: Managing server, database, and application logic, handling user authentication, server-side logic, and ensuring security</h4>
+			<h5>Soft Skills Problem-solving and critical thinking</h5>
+			<h6> And< I m trying my best</h6>
+			<img src="images/camera.jpg" alt="shamim picture">
+			<p>This journey not only deepens your understanding of technology but also enhances your creativity and problem-solving abilities. You gain the confidence to tackle complex projects, troubleshoot issues across different layers of a web application, and collaborate more effectively with other developers. Plus, the demand for full-stack developers is high, offering a wide range of career opportunities in various industries</p>
+			<abbr title="MD Shamim Ahmed">MSA</abbr>
+
+		</body>
+	</html>
